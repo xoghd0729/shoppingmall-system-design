@@ -24,6 +24,23 @@
 
 ---
 
+## 산출물
+
+### 유스케이스 다이어그램
+![유스케이스 다이어그램](docs/usecase_diagram.jpeg)
+
+### 메뉴 트리
+![메뉴 트리](docs/menutree.jpeg)
+
+### ERD
+![ERD 1](docs/erd_0.jpeg)
+![ERD 2](docs/erd_1.jpeg)
+
+### 클래스 다이어그램
+![클래스 다이어그램](docs/class_diagram.jpeg)
+
+---
+
 ## 수행 내용
 
 - 요구사항 정의서 작성 (기능별 상세 명세)
